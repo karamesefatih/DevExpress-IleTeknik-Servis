@@ -16,6 +16,5 @@
 ![Ürün Listesi - Yeni Ürün](https://user-images.githubusercontent.com/61479214/77448193-885c6280-6e01-11ea-856d-63fe82d5401f.PNG)
 ![Ürün Rapor](https://user-images.githubusercontent.com/61479214/77448199-88f4f900-6e01-11ea-83ad-81fb39bcb6ed.PNG)
 ![Yeni Müşteri](https://user-images.githubusercontent.com/61479214/77448200-8a262600-6e01-11ea-84ad-b2325213028d.PNG)
-![You Tube](https://user-images.githubusercontent.com/61479214/77448203-8abebc80-6e01-11ea-8f40-f02c9d55d16d.PNG)
 
 
