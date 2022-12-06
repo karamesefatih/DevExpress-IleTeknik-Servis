@@ -10,7 +10,6 @@
 ![Doviz Kurları](https://user-images.githubusercontent.com/61479214/77448098-7bd80a00-6e01-11ea-8ddf-b29af830cfa5.PNG)
 ![Müşteri İL İstatislik](https://user-images.githubusercontent.com/61479214/77448169-8397ae80-6e01-11ea-8a50-bb59d047e8c5.PNG)
 ![Müşteri Listesi](https://user-images.githubusercontent.com/61479214/77448171-84304500-6e01-11ea-982e-906bbc0588f1.PNG)
-![Personel Listesi](https://user-images.githubusercontent.com/61479214/77448175-84c8db80-6e01-11ea-84c5-b8dacf2759d4.PNG)
 ![Rapor Sihirbazı](https://user-images.githubusercontent.com/61479214/77448182-85fa0880-6e01-11ea-9d12-7b41289d2287.PNG)
 ![Satış Listesi - Yeni Satış](https://user-images.githubusercontent.com/61479214/77448188-872b3580-6e01-11ea-9e4e-dc992d4c8aa6.PNG)
 ![Ürün İstatislikleri](https://user-images.githubusercontent.com/61479214/77448191-87c3cc00-6e01-11ea-9360-8f437d24e2fb.PNG)
