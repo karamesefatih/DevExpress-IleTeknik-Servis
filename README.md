@@ -2,7 +2,6 @@
 
 .NET C# ile Devexpress Güçlü Arayüzü Oluşturulmuş Masaüstü Projesi , .DB  First yaklaşımı ile Entity Framework kullanılmıştır.
 
-
 ![Arıza Listesi - Yeni Arıza](https://user-images.githubusercontent.com/61479214/77448082-78dd1980-6e01-11ea-91e4-2d7162725ee6.PNG)
 ![Arıza Listesi -Arıza Kaydı](https://user-images.githubusercontent.com/61479214/77448085-7975b000-6e01-11ea-96cd-4cfe97ae7432.PNG)
 ![Departman Listesi](https://user-images.githubusercontent.com/61479214/77448088-7a0e4680-6e01-11ea-8ad9-227b8b3f89e1.PNG)
